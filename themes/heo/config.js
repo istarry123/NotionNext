@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'WEB.ISTARRY.TOP',
   HEO_HERO_TITLE_4: '快速观看',
   HEO_HERO_TITLE_5: 'Centos8部署Samba',
-  HEO_HERO_TITLE_LINK: 'https://https://web.istarry.top/archive/technology',
+  HEO_HERO_TITLE_LINK: 'https://web.istarry.top/archive/technology',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
